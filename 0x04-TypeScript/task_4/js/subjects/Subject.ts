@@ -5,7 +5,7 @@ namespace Subjects {
     protected teacher: Teacher;
 
     // setter for teacher
-    set setTeacher(teacher: Teacher) {
+    set setTeacher(teacher:Teacher) {
       this.teacher = teacher;
     }
   }
